@@ -9,8 +9,7 @@
 - 📫 You can reach me at: alarictargaryen@gmail.com
 - 😄 Preferred languages: Python, Java
 - ⚡ Fun fact: I’m a freshman diving into the world of Computer Science!
-
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=chenyuanTKCY)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=chenyuanTKCY)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chenyuanTKCY)
