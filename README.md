@@ -13,3 +13,4 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=chenyuanTKCY)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chenyuanTKCY)
