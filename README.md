@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I’m a freshman diving into the world of Computer Science!
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyuanTKCY)
+![trophy](https://github-profile-trophy.vercel.app/?username=chenyuanTKCY)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY)
