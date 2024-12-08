@@ -26,8 +26,8 @@
 ### 🖌️ Dynamic Visuals
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chenyuanTKCY" alt="GitHub Streak" height="280px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY" alt="Top Langs" height="280px" />
+  <img src="https://streak-stats.demolab.com/?user=chenyuanTKCY" alt="GitHub Streak" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY" alt="Top Langs" height="250px" />
 </div>
 
 <div align="center">
