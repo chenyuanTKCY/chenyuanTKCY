@@ -29,17 +29,7 @@
   <img src="https://streak-stats.demolab.com/?user=chenyuanTKCY" alt="GitHub Streak" height="230px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY" alt="Top Langs" height="230px" />
 </div>
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zhangchenyuan&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zhangchenyuan&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhangchenyuan&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+
 <div align="center">
   <img src="https://readme-activity-graph.vercel.app/graph?username=chenyuanTKCY" alt="GitHub Activity Graph" width="100%" />
 </div>
