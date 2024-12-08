@@ -24,6 +24,12 @@
 ---
 
 ### 🖌️ Dynamic Visuals
-![GitHub Streak](https://streak-stats.demolab.com/?user=chenyuanTKCY)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY)  
-![GitHub Activity Graph](https://readme-activity-graph.vercel.app/graph?username=chenyuanTKCY)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=chenyuanTKCY" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY" alt="Top Langs" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=chenyuanTKCY" alt="GitHub Activity Graph" width="95%" />
+</div>
