@@ -9,4 +9,4 @@
 - 📫 You can reach me at: alarictargaryen@gmail.com
 - 😄 Preferred languages: Python, Java
 - ⚡ Fun fact: I’m a freshman diving into the world of Computer Science!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang Chenyuan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyuanTKCY)
