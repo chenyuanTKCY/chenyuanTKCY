@@ -23,20 +23,5 @@
 
 ---
 
-### 🖌️ Dynamic Visuals
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chenyuanTKCY" alt="GitHub Streak" height="230px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuanTKCY" alt="Top Langs" height="230px" />
-</div>
-
-<div align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=chenyuanTKCY" alt="GitHub Activity Graph" width="100%" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
 
