@@ -2,7 +2,7 @@
 
 ###  About Me
 
--  **I’m currently studying Computer Engineering at HIT.**  
+-  **I’m Tenkachaya (not [Tenkachaya](https://en.wikipedia.org/wiki/Tengachaya_Station)) currently studying Computer Engineering at HIT.**  
 -  **Passionate about:**   
   - Advanced Techniques in Data Science & AI  
 -  **Contact Me:**  
