@@ -1,7 +1,7 @@
 
 ###  About Me
 
--  **I’m Tenkachaya (not [Tenkachaya](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8B%E8%8C%B6%E5%B1%8B%E9%A7%85)) currently studying at HIT.**  
+-  **I’m Tenkachaya (not [Tengachaya](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8B%E8%8C%B6%E5%B1%8B%E9%A7%85)) currently studying at Harbin Institute of Techonology (HIT).**  
 -  **Passionate about:**   
   - Advanced Techniques in Data Science & AI  
 -  **Contact Me:**  
