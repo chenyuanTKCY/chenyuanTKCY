@@ -1,13 +1,11 @@
+### About Me
 
-###  About Me
+- 👋 **Tenkachaya** — not [Tengachaya](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8B%E8%8C%B6%E5%B1%8B) — studying at Harbin Institute of Technology.
+- 🤖 Interested in **LLM reasoning**, **AI agents**, and **data-driven optimization**.
+- 🎧🏀 Outside research: [**city pop**](https://en.wikipedia.org/wiki/City_pop), basketball, and overanalyzing cities.
+- 📮 [alarictargaryen@gmail.com](mailto:alarictargaryen@gmail.com)
 
--  **I’m Tenkachaya (not [Tengachaya](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8B%E8%8C%B6%E5%B1%8B)) currently studying at Harbin Institute of Techonology (HIT).**  
--  **Passionate about:**   
-  - Advanced techniques in **large language model reasoning**, **agentic application** and some **data-driven optimization**.
--  **Contact Me:**  
-  - Email: [alarictargaryen@gmail.com](mailto:alarictargaryen@gmail.com)  
 
----
 
 
 
